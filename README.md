@@ -19,7 +19,7 @@ Siga os passos abaixo para executar o projeto localmente:
 1. **Clone o Repositório**  
    No terminal, execute:
    ```bash
-   git clone https://github.com/seu-usuario/infomoney-crawler.git
+   git clone https://github.com/devyank1/infomoney-crawler.git
    cd infomoney-crawler
 
 ## 💻 Technology
