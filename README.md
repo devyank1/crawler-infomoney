@@ -31,9 +31,9 @@ Siga os passos abaixo para executar o projeto localmente:
    mvn exec:java
    ```
 ## 💻 Technology
-   Language: Java
-   Maven
-   Jsoup
+   - Java
+   - Maven
+   - Jsoup
 
 ## 👨‍💻 Dev
 Yan Carlos <br> <br>
