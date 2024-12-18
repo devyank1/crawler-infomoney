@@ -22,6 +22,14 @@ Siga os passos abaixo para executar o projeto localmente:
    git clone https://github.com/devyank1/infomoney-crawler.git
    cd infomoney-crawler
 
+2. **Baixe as dependências e compile o projeto:**
+   ```bash
+   mvn clean install
+   
+3. **Execute o projeto:**
+   ```bash
+   mvn exec:java
+   ```
 ## 💻 Technology
    Language: Java
    Maven
